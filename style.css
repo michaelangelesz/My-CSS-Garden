@@ -1,3 +1,137 @@
 a{
     text-decoration: none;
   }
+ 
+ 
+
+/* Change the background-color of the body using a hex value. */
+body {
+  background-color: #FFFDD0;
+}
+
+
+
+/* Change the color and/or font-family of the body (use any type of color unit). */
+body {
+  color: #800020;
+  font-family: Papyrus, sans-serif;
+}
+
+
+
+/* Select the nav and change the background-color to a different color using an rgb() color unit. */
+nav {
+  background-color: #d19fa1;
+}
+
+
+
+/* Select the aside and change the background-color to a different color using a hex color unit. */
+aside {
+  background-color: antiquewhite;
+}
+
+
+
+/* Using compound selectors, i.e., element1, element2 to select both the nav and aside, make each the same text color. */
+nav, aside {
+  color: pink;
+}
+
+
+
+/* Target the anchor tags and remove the text-decoration. */
+a {
+  text-decoration: none;
+}
+
+
+
+/* Target the anchor and change the color. */
+a {
+  color: bisque;
+}
+
+
+
+/* Target the anchor :visited state and change the color using an HTML color name. */
+a:visited {
+  color: purple;
+}
+
+
+
+/* Target the anchor and change the color on :hover. */
+a:hover {
+  color: lightseagreen;
+}
+
+
+
+/* Add a border to the section elements. */
+section {
+  
+}
+
+
+
+/* Add a box-shadow to at least one element. */
+
+
+
+/* Target the h1 and change the font-size using em. */
+
+
+
+/* Add a text-shadow to the h1. */
+
+
+
+/* Change the font-size of the p tags. */
+
+
+
+/* Change the font-weight of the span tags to bold (add in your details outside the span tag in the index.html file). */
+
+
+
+/* Style the main element to have a different background-color. */
+
+
+
+/* Resize the main element to have a width of 90%. */
+
+
+
+/* Center the main using margin:auto (we'll learn more about this in the next lesson). */
+
+
+
+/* text-align the p tags to be of type justify. */
+
+
+
+/* Choose any text element and text-align center it. */
+
+
+
+/* Remove the list-style of the li tags. */
+
+
+
+/* Using compound selectors, i.e., element1, element2, select each h3 and make each a different color. */
+
+
+
+/* Using class and/or id by adding it in the index.html to each of the three h2 tags, give each one a different text-shadow and/or color. */
+
+
+
+/* Add any other properties to the CSS rules you've created. */
+
+
+
+/* Create new rules to add even more style* */
+
+
+/* Feel free to add classes and ids to the HTML to select the elements you want. */
